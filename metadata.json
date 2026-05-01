@@ -1,0 +1,6 @@
+{
+  "name": "SkySweep Radar",
+  "description": "Interactive radar screen for real-time aircraft tracking using adsb.fi data.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
